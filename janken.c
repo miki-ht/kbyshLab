@@ -8,7 +8,7 @@ int getMyHand();
 //勝ち負けは数値で返す(0:勝ち,1:負け)
 int getVs(int,int);
 void printResult();
-
+int higashiyama;
 
 int main(){
 }
